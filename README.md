@@ -117,12 +117,10 @@ To-Be
 스마트폰 기술에 많이 활용되었고, 그 외에도 프로젝션 키보드, 증강현실 등의 기술에 활용되었다.
 
 
-
-
-
-
-
   - 우리가 상상한 미래
+
+
+![Image](assets/유레카프로젝트_미래모습.jpg)
 
 ◆ 2050년 우리들의 모습
 
@@ -163,9 +161,9 @@ To-Be
 
 
 
-![Image](https://github.com/user-attachments/assets/06833005-c8c1-41e6-b8e7-12fe73b39749)
+![Image](assets/유레카프로젝트_미래모습_사진1.png)
 
-![Image](https://github.com/user-attachments/assets/5087406d-8fa7-4536-b033-5acf48d73c4e)
+![Image](assets/유레카프로젝트_미래모습_사진2.png)
 
 
 ◆ 기술 트렌드 찾아보기
