@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/74LBcwD_)
+
+![Image](assets/유레카프로젝트_미래모습.jpg)
+
 # Welcome to 14팀
 
 ## 1️⃣ 팀원 소개
@@ -119,8 +122,6 @@ To-Be
 
   - 우리가 상상한 미래
 
-
-![Image](assets/유레카프로젝트_미래모습.jpg)
 
 ◆ 2050년 우리들의 모습
 
